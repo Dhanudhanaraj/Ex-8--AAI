@@ -65,6 +65,7 @@ while True:
         exit(1)
 ```
 ## OUTPUT:
+![WhatsApp Image 2024-11-15 at 12 49 31 PM](https://github.com/user-attachments/assets/0fea9bb3-1d64-4e2a-9881-082aeb14a18c)
 
 
 ## RESULT:
